@@ -9,7 +9,7 @@ spec:
   project: my-project
 
   source:
-    repoURL: <MANIFEST-REPOSITORY-URL>
+    repoURL: https://github.com/rifatbond007/manifests-repo
     targetRevision: HEAD
     path: k8s-manifests
 
