@@ -7,7 +7,7 @@ spec:
   description: "Demo NodeJS Project for CI/CD Pipeline"
   
   sourceRepos:
-    - "<MANIFEST-REPOSITORY-URL>"
+    - "https://github.com/rifatbond007/manifests-repo"
   
   destinations:
     - namespace: myapp 

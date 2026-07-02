@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: <DOCKERHUB-USERNAME>/nodejs-cicd-app:1.0.0
+        image: rifatbond007/nodejs-cicd-app:1.0.0
         ports:
         - containerPort: 3000
