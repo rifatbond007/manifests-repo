@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: rifatbroh/nodejs-cicd-app:1.0.0
+        image: rifatbroh/nodejs-cicd-app:1.0.1
         ports:
         - containerPort: 3000
